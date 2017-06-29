@@ -1,0 +1,17 @@
+{
+  "scripts": {
+      "build": "webpack",
+      "watch": "webpack --watch"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "@types/react": "^15.0.33",
+    "@types/react-dom": "^15.5.1",
+    "ts-loader": "^2.2.1",
+    "typescript": "^2.4.1",
+    "webpack": "^3.0.0"
+  }
+}
